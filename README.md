@@ -1,6 +1,7 @@
 # Challenges (by category)
 
 ### Cryptography
+- [???](???) (RITSEC CTF 2025)
 - [MEaaS](https://github.com/0xmmalik/ritsec-ctf-2024/tree/main/crypto_meaas) (RITSEC CTF 2024)
 - [Drought](https://github.com/0xmmalik/ists-ctf-2024/tree/main/crypto_drought) (ISTS 2024)
 - [Gold Heist](https://github.com/0xmmalik/ists-ctf-2024/tree/main/crypto_gold_heist) (ISTS 2024)
