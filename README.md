@@ -13,6 +13,9 @@
 - [Leaked Login](https://github.com/0xmmalik/ritsec-ctf-2024/tree/main/web_leaked_login) (RITSEC CTF 2024)
 - [Modern Sheriff](https://github.com/0xmmalik/ists-ctf-2024/tree/main/web_modern_sheriff) (ISTS 2024)
 
+### Miscellaneous
+- [???](???) (RITSEC CTF 2025)
+
 ### Binary Exploit/PWN
 - [Mission Impossi-bird](https://github.com/0xmmalik/wicys-ctf-2023/tree/main/pwn_mission_impossi-bird) (WiCyS 2023)
 
